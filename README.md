@@ -1,2 +1,2 @@
 # EmployeeWebDemo
-Employee Mockup WebDemo made with Vue.js, Quasar and Kotlin.
+Employee Mockup WebDemo made for the GFT Intership program 2021.
